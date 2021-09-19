@@ -1,0 +1,115 @@
+C:\Users\hp\source\repos\Advance  Prison Management System\Advance  Prison Management System\bin\Debug\Advance  Prison Management System.exe.config
+C:\Users\hp\source\repos\Advance  Prison Management System\Advance  Prison Management System\bin\Debug\Advance  Prison Management System.exe
+C:\Users\hp\source\repos\Advance  Prison Management System\Advance  Prison Management System\bin\Debug\Advance  Prison Management System.pdb
+C:\Users\hp\source\repos\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance  Prison Management System.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.Form1.resources
+C:\Users\hp\source\repos\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.Properties.Resources.resources
+C:\Users\hp\source\repos\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance  Prison Management System.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance  Prison Management System.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance  Prison Management System.exe
+C:\Users\hp\source\repos\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance  Prison Management System.pdb
+C:\Users\hp\source\repos\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.DeputyInspectorPanel.resources
+C:\Users\hp\source\repos\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.Forgetpass.resources
+C:\Users\hp\source\repos\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.InspectorGenaralPanel.resources
+C:\Users\hp\Desktop\Naima\Advance  Prison Management System\Advance  Prison Management System\bin\Debug\Advance  Prison Management System.exe.config
+C:\Users\hp\Desktop\Naima\Advance  Prison Management System\Advance  Prison Management System\bin\Debug\Advance  Prison Management System.exe
+C:\Users\hp\Desktop\Naima\Advance  Prison Management System\Advance  Prison Management System\bin\Debug\Advance  Prison Management System.pdb
+C:\Users\hp\Desktop\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance  Prison Management System.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.DeputyInspectorPanel.resources
+C:\Users\hp\Desktop\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.Forgetpass.resources
+C:\Users\hp\Desktop\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.Form1.resources
+C:\Users\hp\Desktop\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.InspectorGenaralPanel.resources
+C:\Users\hp\Desktop\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.Properties.Resources.resources
+C:\Users\hp\Desktop\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance  Prison Management System.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance  Prison Management System.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance  Prison Management System.exe
+C:\Users\hp\Desktop\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance  Prison Management System.pdb
+C:\Users\hp\Desktop\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.Superviser.resources
+C:\Users\hp\Desktop\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.Addcell.resources
+C:\Users\hp\Desktop\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.Cellstatus.resources
+C:\Users\hp\Desktop\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.Lockcell.resources
+C:\Users\hp\Desktop\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.Unlockcell.resources
+C:\Users\hp\Desktop\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.Siren.resources
+C:\Users\hp\Desktop\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.Addprisoner.resources
+C:\Users\hp\Desktop\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.Releaseprisoner.resources
+C:\Users\hp\Desktop\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.Prisoninfo.resources
+C:\Users\hp\Desktop\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.Visitors.resources
+C:\Users\hp\Desktop\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.Assignwork.resources
+C:\Users\hp\Desktop\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.Addsuperind.resources
+C:\Users\hp\Desktop\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.salaryreq.resources
+C:\Users\hp\Desktop\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.IGprofile.resources
+C:\Users\hp\Desktop\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.Addwork.resources
+C:\Users\hp\Desktop\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.Iginfo.resources
+C:\Users\hp\Desktop\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.superviserinfo.resources
+C:\Users\hp\Desktop\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.Workstatus.resources
+C:\Users\hp\Desktop\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.AddIG.resources
+C:\Users\hp\Desktop\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.Anouncement.resources
+C:\Users\hp\Desktop\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.SUPsiren.resources
+G:\AyshStar\Naima\Advance  Prison Management System\Advance  Prison Management System\bin\Debug\Advance  Prison Management System.exe.config
+G:\AyshStar\Naima\Advance  Prison Management System\Advance  Prison Management System\bin\Debug\Advance  Prison Management System.exe
+G:\AyshStar\Naima\Advance  Prison Management System\Advance  Prison Management System\bin\Debug\Advance  Prison Management System.pdb
+G:\AyshStar\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance  Prison Management System.csprojAssemblyReference.cache
+G:\AyshStar\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.Addcell.resources
+G:\AyshStar\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.AddIG.resources
+G:\AyshStar\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.Addprisoner.resources
+G:\AyshStar\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.Addsuperind.resources
+G:\AyshStar\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.Addwork.resources
+G:\AyshStar\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.Anouncement.resources
+G:\AyshStar\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.Assignwork.resources
+G:\AyshStar\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.Cellstatus.resources
+G:\AyshStar\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.DeputyInspectorPanel.resources
+G:\AyshStar\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.Forgetpass.resources
+G:\AyshStar\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.Form1.resources
+G:\AyshStar\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.Iginfo.resources
+G:\AyshStar\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.IGprofile.resources
+G:\AyshStar\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.InspectorGenaralPanel.resources
+G:\AyshStar\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.Lockcell.resources
+G:\AyshStar\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.Prisoninfo.resources
+G:\AyshStar\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.Properties.Resources.resources
+G:\AyshStar\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.Releaseprisoner.resources
+G:\AyshStar\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.salaryreq.resources
+G:\AyshStar\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.Siren.resources
+G:\AyshStar\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.Superviser.resources
+G:\AyshStar\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.superviserinfo.resources
+G:\AyshStar\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.SUPsiren.resources
+G:\AyshStar\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.Unlockcell.resources
+G:\AyshStar\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.Visitors.resources
+G:\AyshStar\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.Workstatus.resources
+G:\AyshStar\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance  Prison Management System.csproj.GenerateResource.cache
+G:\AyshStar\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance  Prison Management System.csproj.CoreCompileInputs.cache
+G:\AyshStar\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance  Prison Management System.exe
+G:\AyshStar\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance  Prison Management System.pdb
+F:\Naima\Advance  Prison Management System\Advance  Prison Management System\bin\Debug\Advance  Prison Management System.exe.config
+F:\Naima\Advance  Prison Management System\Advance  Prison Management System\bin\Debug\Advance  Prison Management System.exe
+F:\Naima\Advance  Prison Management System\Advance  Prison Management System\bin\Debug\Advance  Prison Management System.pdb
+F:\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance  Prison Management System.csprojAssemblyReference.cache
+F:\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.Addcell.resources
+F:\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.AddIG.resources
+F:\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.Addprisoner.resources
+F:\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.Addsuperind.resources
+F:\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.Addwork.resources
+F:\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.Anouncement.resources
+F:\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.Assignwork.resources
+F:\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.Cellstatus.resources
+F:\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.DeputyInspectorPanel.resources
+F:\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.Forgetpass.resources
+F:\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.Form1.resources
+F:\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.Iginfo.resources
+F:\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.IGprofile.resources
+F:\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.InspectorGenaralPanel.resources
+F:\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.Lockcell.resources
+F:\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.Prisoninfo.resources
+F:\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.Properties.Resources.resources
+F:\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.Releaseprisoner.resources
+F:\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.salaryreq.resources
+F:\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.Siren.resources
+F:\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.Superviser.resources
+F:\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.superviserinfo.resources
+F:\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.SUPsiren.resources
+F:\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.Unlockcell.resources
+F:\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.Visitors.resources
+F:\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance__Prison_Management_System.Workstatus.resources
+F:\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance  Prison Management System.csproj.GenerateResource.cache
+F:\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance  Prison Management System.csproj.CoreCompileInputs.cache
+F:\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance  Prison Management System.exe
+F:\Naima\Advance  Prison Management System\Advance  Prison Management System\obj\Debug\Advance  Prison Management System.pdb
